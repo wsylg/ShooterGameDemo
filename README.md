@@ -1,3 +1,4 @@
 # ShooterGameDemo
 使用UE5.6的第一人称模板Variant_shooter构建了一个多人射击游戏demo
+
 wasd移动 空格跳跃 按e装备枪械，枪械完成了射击功能 基本实现游戏胜利逻辑 当玩家击败其他敌人获得score当score达到3即可获取胜利
